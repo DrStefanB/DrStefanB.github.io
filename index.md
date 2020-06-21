@@ -11,3 +11,7 @@ Iron Man is a fictional superhero appearing in American comic books published by
 * Energy repulsor and missile projection
 * Regenerative life support
 * Highly skilled martial artist and hand-to-hand combatant
+
+Famous Quotes:
+> And I am iron man.
+> I love you 3000.
